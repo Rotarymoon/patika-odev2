@@ -1,0 +1,114 @@
+
+.ustlink
+{
+    color: #6e6e6e;
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.ustsol
+{
+    float: left;
+}
+.ustsag
+{
+    float: right;
+}
+.sigin
+{
+    background-color: rgb(41, 124, 219);
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+}
+.gogle
+{
+    margin: 0 auto;
+    margin-top: 100px;
+    max-width: min-content;
+    max-height: min-content;
+}
+.gogle img
+{
+    margin: 0 auto;
+}
+.aramabar
+{
+    width: 480px;
+    border: 0.5px solid #b1b1b1;
+    border-radius: 25px;
+    padding: 3px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.aramabar:hover
+{
+    box-shadow: 2px 2px 5px#5f6368;
+
+}
+.arama
+{
+    border: none;
+    font-size: 19px;
+    font-family: sans-serif;
+    width: 400px;
+    outline: none;
+    margin-bottom:7px ;
+}
+[title="buyutec"]
+{
+    height: 16px; 
+    padding: 5px;
+    filter: opacity(30%);
+    padding-top: 10px;
+}
+.sesliara
+{
+    float: right; 
+    padding: 8px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+.kutubutonlar
+{
+    margin: 0 auto;
+    max-width: max-content;
+}
+.goglebuton
+{
+    margin: 40px auto;
+    padding: 10px;
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    font-family: Arial;
+    color: #5f6368;
+    font-size: 14px;
+    height: 36px;
+    text-align: center;
+    cursor: pointer;
+}
+.goglebuton:hover
+{
+    box-shadow: 2px 2px 5px#5f6368;
+}
+.footer
+{
+    display: flex;
+    background-color: #f2f2f2;
+    margin-top: 250px;
+}
+.altlink
+{
+    padding: 10px;
+}
+.footer .altlink a
+{
+    font-family: sans-serif;
+    color: #5f6368;
+    text-decoration: none;
+}
+.saga
+{
+    padding-left: 950px;
+}
